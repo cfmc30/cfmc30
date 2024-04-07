@@ -17,11 +17,14 @@ Hi, I am a student studying Computer Science and Engineering in
 - Operating System Design
 
 ### Hobbies 🎵
-- Listening to music
+- Music
 - Photography
-- Learning Japanese
+- Japanese
 
 ### Language
 - Chinese
 - English
 - Japanese
+
+### How to Contact Me
+- E-mail: tedted30@gmail.com
