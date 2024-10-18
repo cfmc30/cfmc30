@@ -27,4 +27,4 @@ Hi, I am a student studying Computer Science and Engineering in
 - Japanese
 
 ### How to Contact Me
-- E-mail: tedted30@gmail.com
+- E-mail: cfmc30@proton.me
