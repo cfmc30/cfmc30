@@ -25,6 +25,3 @@ Hi, I am a student studying Computer Science and Engineering in
 - Chinese
 - English
 - Japanese
-
-### How to Contact Me
-- E-mail: cfmc30@proton.me
